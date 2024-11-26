@@ -15,7 +15,7 @@ type: 'python main.py'
 
 Select an option from the main menu, follow the prompts
 
-While tracking kills if you enter the wrong the information you can simply enter a blank response.
+While tracking kills if you enter the wrong information you can simply enter a blank response.
 
 This will kick you out.
 

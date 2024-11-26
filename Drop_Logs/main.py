@@ -88,7 +88,7 @@ class MonsterDropTable:
                 total_price += item_price
                 print(f"\nName: {item_name}  Price: {item_price}  Level: {item_level}")
             
-            print(f"\nTotal Entries: {total_entries}  Total Price: {total_price/1000}\n")
+            print(f"\nTotal Entries: {total_entries}  Total Price: {total_price/1000} silver\n")
 
 
 

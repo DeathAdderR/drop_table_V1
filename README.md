@@ -6,11 +6,17 @@ I'm not sure if providing the db I have collected so far is fine, but it's there
 If you're here, can run the code, why wouldn't you want to see pre-collected data?
 
 Sure IF you want here's a run down of the program:
+Open command line.
+Navigate to the folder with the 'main.py' script
+type: 'python main.py'
 
 Select an option from the main menu, follow the prompts
 While tracking kills if you enter the wrong the information you can simply enter a blank response.
 This will kick you out.
 You will have to re enter the data but it will not post the incorrect data into the db.
+
+You can view monsters by kill. 'va' to view all kills then from main menu: 'vm' and type monster name to view drops by monster.
+
 
 
 Future changes:
